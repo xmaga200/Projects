@@ -1,5 +1,4 @@
 from random import randint
-# this is a chess project I have been working on since late April, after my finals had ended
 class chess:
     def __init__(self, importb):
         self.board = importb
